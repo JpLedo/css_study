@@ -1,0 +1,29 @@
+body{
+    background-color: #2c3e50;
+}
+h1{
+    color: whitesmoke;
+}
+h3{
+    color: #f1c40f;
+}
+.cor{
+    color: white;
+}
+h2{
+    border: 1px solid;
+    background-color:#f1c40f;
+}
+.red{
+    color: #e74c3c;
+}
+.enzo{
+    background-color: #f1c40f;
+}
+
+
+/* classe é com ponto */
+/* id é com hastag */
+/* quando vc usar o asterisco é pra aplicar a todos os elementos do documento */
+/* li a é aplicado a todos os anchors dentro de li */
+/* h1 + h4 = seletor adjacente */

@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+}
+
+div{
+    background-color: #fffafa;
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+}   
+.date{
+    font-family: 'Roboto';
+    color: #008080;
+}
+h1{
+    font-family: 'Montserrat';
+}
+p{
+    width: 90%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    padding-top: 20px;
+}
